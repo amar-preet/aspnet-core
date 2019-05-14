@@ -1,0 +1,4 @@
+aspnet-core/bin/*
+aspnet-core.sln
+aspnet-core/aspnet-core.csproj.user
+aspnet-core/aspnet-core.csproj
